@@ -46,7 +46,7 @@ btnAnimales.addEventListener('click', event => {
 })
 })
 
-/* btnComputadoras.addEventListener('click', event => {
+btnComputadoras.addEventListener('click', event => {
   computadoras.forEach(function (marcas){
     let item = document.createElement('li');
     item.textContent = `${marcas}`;
@@ -60,4 +60,4 @@ btnPersonas.addEventListener('click', event => {
     item.textContent = `${persona}`;
   list.appendChild(item);
 })
-}) */
+})

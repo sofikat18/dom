@@ -11,9 +11,3 @@ button.addEventListener('click', event => {
     nameHeader.textContent = nameInput.value;
 })
 
-/* 10 por lista: lista animales, lista de marcas de compus, lista de nombres de nuestros compañeros
-se van a crear 3 botones 
-for each
-add event listener
-printear en el html
-*/
